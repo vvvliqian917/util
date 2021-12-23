@@ -11,3 +11,4 @@ export default function compose<T extends Function[]>(...arg:T):Function{
     },r)
   }
 }
+
